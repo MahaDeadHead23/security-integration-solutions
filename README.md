@@ -70,6 +70,6 @@ The purpose of this lab is to build a complete cybersecurity monitoring environm
 - Incident detection & attack simulation
 - Documentation for professional Security Engineering/Integration roles
 
-The ultimate goal is to understand **how security solutions integrate together** and produce a real portfolio for cybersecurity job applications.
+The ultimate goal is to understand **how security solutions integrate together**.
 
 ---

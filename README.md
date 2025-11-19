@@ -10,7 +10,7 @@ The goal is to learn **Security Solutions Integration** by deploying real tools,
 
 
 
-![Uploading Capture d'écran 2025-11-19 195113.png…]()
+![]image alt](image_url)
 
 
 

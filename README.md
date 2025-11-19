@@ -10,7 +10,7 @@ The goal is to learn **Security Solutions Integration** by deploying real tools,
 
 
 
-![]image alt](image_url)
+![]image alt](https://github.com/MahaDeadHead23/security-integration-solutions/blob/aac3ce0267613a02a3ed77d142afafc03fc9bf26/Capture%20d'%C3%A9cran%202025-11-19%20195113.png)
 
 
 

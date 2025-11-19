@@ -36,7 +36,7 @@ The goal is to learn **Security Solutions Integration** by deploying real tools,
 - **OS:** Windows 10 Pro 22H2  
 - **RAM:** 4 GB  
 - **CPU:** 2 vCPUs  
-- **Disk:** 60 GB  
+- **Disk:** 50 GB
 - **Network:**
   - NAT
   - Host-only

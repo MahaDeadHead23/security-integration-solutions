@@ -6,9 +6,12 @@ The goal is to learn **Security Solutions Integration** by deploying real tools,
 ---
 
 ## 📌 1. Architecture Diagram
-Diagram source file: https://app.diagrams.net
 
-**Architecture:**
+
+
+
+![Uploading Capture d'écran 2025-11-19 195113.png…]()
+
 
 
 
